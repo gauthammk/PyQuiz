@@ -26,7 +26,7 @@ python3 PyQuiz/manage.py runserver
 
 ### Endpoints and Requests
 
-**For available options, make an `OPTIONS` request at REST API Root `http://localhost:8000/quizzes/`**
+**For available options, make an `OPTIONS` request at the REST API Root `http://localhost:8000/quizzes/`**
 
 - CRUD functionality for the User model is available at `http://localhost:8000/users/api/`
 
